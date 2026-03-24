@@ -21,9 +21,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guyuxiang\&layout=compact\&theme=flat-square)
 
 ---
-
-## 🔥 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guyuxiang\&theme=flat-square)
-
----
