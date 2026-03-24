@@ -6,18 +6,11 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-* 🏗 Focus on building **next-generation financial infrastructure**
-* 🔗 Specialized in **multi-chain systems**
-* 💰 Working on **RWA tokenization & DeFi protocol**
-* 🤖 AI Native developer
-
----
-
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guyuxiang\&layout=compact\&theme=flat-square)
+* Focus on building **next-generation financial infrastructure**
+* Specialized in **multi-chain systems**
+* Working on **RWA tokenization & DeFi protocol**
+* AI Native developer
 
 ---
