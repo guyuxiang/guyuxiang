@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yuxiang Gu
+# 👋 Hi, I'm Gu Yuxiang
 
 🚀 Web3 Smart Contract Engineer
 🌐 Ethereum · Solana · Cosmos
