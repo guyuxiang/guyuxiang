@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gu Yuxiang
 
 🚀 Web3 Smart Contract Engineer
-🌐 Ethereum · Solana · Cosmos
+🌐 Ethereum · Solana
 💰 RWA · DeFi
 
 ---
@@ -11,6 +11,5 @@
 * Focus on building **next-generation financial infrastructure**
 * Specialized in **multi-chain systems**
 * Working on **RWA tokenization & DeFi protocol**
-* AI Native developer
 
 ---
